@@ -8,3 +8,13 @@ Key Features:
 - Contact Form: Enable users to reach out to the club easily through a user-friendly contact form.
 - Social Media Integration: Connect with the audience by incorporating social media links for Facebook, Google Plus, Twitter, Behance, and LinkedIn.
 - Modern Styling: Utilize CSS to create a sleek and visually appealing design that aligns with the club's aesthetic.
+
+  Technologies Used:
+
+    HTML5
+    CSS3
+    JavaScript
+    Bootstrap 4 alpha 2
+    jQuery
+    Font Awesome
+    Google Fonts
