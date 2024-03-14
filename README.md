@@ -11,10 +11,10 @@ Key Features:
 
   Technologies Used:
 
-    HTML5
-    CSS3
-    JavaScript
-    Bootstrap 4 alpha 2
-    jQuery
-    Font Awesome
-    Google Fonts
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 4 alpha 2
+- jQuery
+- Font Awesome
+- Google Fonts
